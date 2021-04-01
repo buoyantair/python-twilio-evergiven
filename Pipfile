@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "==1.1.2"
+twilio = "==6.55.0"
+marine-traffic-api = "==0.20.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
